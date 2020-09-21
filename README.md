@@ -9,3 +9,4 @@
 If you click a square it's game over and your score is shown.
  
  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
