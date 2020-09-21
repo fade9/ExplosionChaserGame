@@ -1,4 +1,4 @@
-# ExplosionChaserGame
+# Explosion Chaser Game
 
 **How to Play:**
  
